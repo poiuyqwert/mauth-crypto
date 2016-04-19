@@ -1,0 +1,11 @@
+{
+  "name": "mauth-crypto",
+  "version": "1.0.0",
+  "description": "Crypto used by passport-mauth, and for front-end crypto to go with passport-mauth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "poiuy_qwert",
+  "license": "MIT"
+}
